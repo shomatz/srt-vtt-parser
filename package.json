@@ -61,9 +61,6 @@
     "vite-plugin-dts": "^3.9.1",
     "vitest": "^2.0.3"
   },
-  "files": [
-    "dist/**/*"
-  ],
   "prettier": {
     "trailingComma": "none",
     "printWidth": 200,
